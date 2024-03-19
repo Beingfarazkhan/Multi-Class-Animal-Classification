@@ -124,6 +124,10 @@ span.icon {
 input:disabled {
   background-color: white;
 }
+input:focus {
+  color: black
+  background-color: black;
+}
 
 .input {
   border-width: 1px;
